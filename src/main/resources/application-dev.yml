@@ -16,4 +16,5 @@ spring:
       hibernate:
         format_sql: true          # formatea las consultas en consola
 
-
+server:
+  port: 8084
